@@ -1,24 +1,18 @@
-html, body {
-    height: 100%;
-}
-html {
-    display: table;
-    margin: auto;
-}
 body {
     background-color: #27273c;
-    display: table-cell;
-    vertical-align: middle;
 }
 
 div.scrollmenu {
-    background-color: rgb(91, 55, 158);
+    background-color: rgba(91, 55, 158, 0.705);
+    border-radius: 25px;
     overflow: auto;
     white-space: nowrap;
     max-width: fit-content;
     margin: auto;
 }
 div.scrollmenu a {
+    background-color: rgb(91, 55, 158);
+    border-radius: 25px;
     display: inline-block;
     color: rgb(174, 83, 197);
     text-align: center;
@@ -30,8 +24,8 @@ div.scrollmenu a {
 }
 
 h1 {
-    font-family: "Brush Script MT", cursive; 
-    font-size: 24px; 
+    font-family: "Niconne", cursive; 
+    font-size: 60px; 
     font-style: normal; 
     font-variant: normal; 
     font-weight: 700; 
@@ -41,8 +35,9 @@ h1 {
 }
 
 h3 {
-    font-family: "Brush Script MT", cursive; 
-    font-size: 14px; font-style: normal; 
+    font-family: "Niconne", cursive; 
+    font-size: 40px; 
+    font-style: normal; 
     font-variant: normal; 
     font-weight: 700; 
     line-height: 15.4px;
@@ -55,19 +50,19 @@ footer p {
 }
 
 p {
-    font-family: "Brush Script MT", cursive; 
-    font-size: 14px; 
+    font-family: "Niconne", cursive; 
+    font-size: 30px; 
     font-style: normal; 
     font-variant: normal; 
     font-weight: 400; 
     line-height: 20px; 
     text-align: center;
-    color: rgba(153, 120, 231, 0.747);
+    color: rgb(203, 163, 255);
 }
 
 ul {
-    font-family: "Brush Script MT", cursive; 
-    font-size: 14px; 
+    font-family: "Niconne", cursive; 
+    font-size: 30px; 
     font-style: normal; 
     font-variant: normal; 
     font-weight: 400; 
