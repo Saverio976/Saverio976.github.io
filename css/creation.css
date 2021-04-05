@@ -18,20 +18,7 @@ div.column {
     text-decoration: wavy;
 }
 
-div.expliquation {
-    border-radius: 60px;
-    display: none;
-    justify-content: center;
-    flex-direction: column;
-    justify-content: center;
-    align-items: center;
-    text-align: center;
-    border: 3px solid red;
-    padding: 10px;
-    background-color: rgba(91, 55, 158, 0.705);
-}
-
-.cancel, .open {
+.open {
     background-color: rgb(219, 92, 92);
     border-radius: 25px;
     font-family: "Niconne", cursive; 

@@ -19,7 +19,7 @@ div.scrollmenu a {
     padding: 14px;
     text-decoration: wavy;
 }
-.active, div.scrollmenu a:hover {
+div.scrollmenu .active, div.scrollmenu a:hover {
     background-color: rgb(31, 6, 172);
 }
 
