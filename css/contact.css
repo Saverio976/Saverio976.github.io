@@ -9,17 +9,17 @@ div.reseaux a {
 }
 
 #github {
-    background-image: url(../assets/img/GitHub64px.png);
+    background-image: url(/assets/img/contact/GitHub64px.png);
     width: 64px;
     height: 64px;
 }
 #instagram {
-    background-image: url(../assets//img/Instagram64px.png);
+    background-image: url(/assets/img/contact/Instagram64px.png);
     width: 64px;
     height: 64px;
 }
 #email {
-    background-image: url(../assets/img/AtLogo64px.png);
+    background-image: url(/assets/img/contact/AtLogo64px.png);
     width: 64px;
     height: 64px;
 }
