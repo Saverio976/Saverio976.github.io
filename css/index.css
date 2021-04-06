@@ -1,5 +1,6 @@
 body {
     background-color: #27273c;
+    overflow-x: hidden;
 }
 
 div.scrollmenu {
