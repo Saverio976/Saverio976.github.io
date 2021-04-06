@@ -1,8 +1,7 @@
 body {
     background-color: #27273c;
-    width: 95vw;
-    height: 95vh;
-    overflow: hidden;
+    width: 95%;
+    height: 95%;
 }
 
 div.scrollmenu {
