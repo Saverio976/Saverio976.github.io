@@ -3,9 +3,11 @@ div.reseaux{
     white-space: nowrap;
     max-width: fit-content;
     margin: auto;
+    z-index: 9;
 }
 div.reseaux a {
     display: inline-block;
+    z-index: 9;
 }
 
 #github {

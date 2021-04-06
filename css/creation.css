@@ -6,6 +6,7 @@ div.row {
     margin: auto;
     position: relative;
     max-width: fit-content;
+    z-index: 9;
 }
 
 div.column {
@@ -16,6 +17,7 @@ div.column {
     text-align: center;
     padding: 14px;
     text-decoration: wavy;
+    z-index: 9;
 }
 
 .open {
@@ -28,4 +30,5 @@ div.column {
     font-weight: 400; 
     line-height: 20px; 
     text-align: center;
+    z-index: 9;
 }
