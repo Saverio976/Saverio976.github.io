@@ -1,7 +1,7 @@
 body {
     background-color: #27273c;
-    width: 100vw - 120px;
-    height: 100vh - 150px;
+    width: 95vw;
+    height: 95vh;
     overflow: hidden;
 }
 
