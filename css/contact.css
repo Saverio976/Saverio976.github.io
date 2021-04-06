@@ -3,6 +3,7 @@ div.reseaux{
     white-space: nowrap;
     max-width: fit-content;
     margin: auto;
+    position: relative;
     z-index: 9;
 }
 div.reseaux a {
