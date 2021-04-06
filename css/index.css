@@ -12,6 +12,7 @@ div.scrollmenu {
     white-space: nowrap;
     max-width: fit-content;
     margin: auto;
+    position: relative;
     z-index: 9;
 }
 div.scrollmenu a {
@@ -29,6 +30,7 @@ div.scrollmenu .active, div.scrollmenu a:hover {
 }
 
 h1 {
+    position: relative;
     font-family: "Niconne", cursive; 
     font-size: 60px; 
     font-style: normal; 
@@ -41,6 +43,7 @@ h1 {
 }
 
 h3 {
+    position: relative;
     font-family: "Niconne", cursive; 
     font-size: 40px; 
     font-style: normal; 
@@ -58,6 +61,7 @@ footer p {
 }
 
 p {
+    position: relative;
     font-family: "Niconne", cursive; 
     font-size: 30px; 
     font-style: normal; 
@@ -70,17 +74,9 @@ p {
 }
 
 ul {
-    font-family: "Niconne", cursive; 
-    font-size: 30px; 
-    font-style: normal; 
-    font-variant: normal; 
-    font-weight: 400; 
-    line-height: 20px; 
-    text-align: center;
-    z-index: 9;
+    z-index: 1;
 }
 li {
-    display: block;
     z-index: 1;
 }
 a {
