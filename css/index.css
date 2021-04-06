@@ -1,6 +1,7 @@
 body {
     background-color: #27273c;
-    overflow: hidden;
+    width: 100vw;
+    height: 100vh - 120px;
 }
 
 div.scrollmenu {
@@ -124,8 +125,8 @@ img{
     height: 20px;
     background: rgba(255, 255, 255, 0.2);
     animation: animate 25s linear infinite;
-    bottom: 0px;
-    z-index: 4;    
+    bottom: -120px;
+    z-index: 4; 
 }
 
 .circles li:nth-child(1){
