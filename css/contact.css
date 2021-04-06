@@ -10,19 +10,19 @@ div.reseaux a {
     z-index: 9;
 }
 
-#github {
+div.reseaux #github {
     background-image: url(/assets/img/contact/GitHub64px.png);
     width: 64px;
     height: 64px;
     z-index: 9;
 }
-#instagram {
+div.reseaux #instagram {
     background-image: url(/assets/img/contact/Instagram64px.png);
     width: 64px;
     height: 64px;
     z-index: 9;
 }
-#email {
+div.reseaux #email {
     background-image: url(/assets/img/contact/AtLogo64px.png);
     width: 64px;
     height: 64px;
