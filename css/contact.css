@@ -14,14 +14,17 @@ div.reseaux a {
     background-image: url(/assets/img/contact/GitHub64px.png);
     width: 64px;
     height: 64px;
+    z-index: 9;
 }
 #instagram {
     background-image: url(/assets/img/contact/Instagram64px.png);
     width: 64px;
     height: 64px;
+    z-index: 9;
 }
 #email {
     background-image: url(/assets/img/contact/AtLogo64px.png);
     width: 64px;
     height: 64px;
+    z-index: 9;
 }
