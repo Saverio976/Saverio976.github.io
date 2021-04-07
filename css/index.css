@@ -250,12 +250,12 @@ img{
     }
 }
 .waveWrapper {
-    overflow-x: hidden;
+    overflow: hidden;
     position: fixed;
     left: 0;
     right: 0;
     bottom: 0;
-    height: fit-content;
+    height: 100px;
     margin: auto;
     z-index: 1;
 }
