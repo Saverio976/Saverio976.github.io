@@ -1,3 +1,6 @@
+/*
+ * inline block of project
+ */
 div.row {
     background-color: rgba(91, 55, 158, 0.705);
     border-radius: 25px;
@@ -8,7 +11,6 @@ div.row {
     max-width: fit-content;
     z-index: 9;
 }
-
 div.column {
     background-color: rgb(91, 55, 158);
     border-radius: 25px;
@@ -19,7 +21,6 @@ div.column {
     text-decoration: wavy;
     z-index: 9;
 }
-
 .open {
     background-color: rgb(219, 92, 92);
     border-radius: 25px;

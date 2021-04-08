@@ -1,3 +1,6 @@
+/*
+ * inline network
+ */
 div.reseaux{
     overflow: auto;
     white-space: nowrap;
@@ -10,7 +13,6 @@ div.reseaux a {
     display: inline-block;
     z-index: 9;
 }
-
 div.reseaux #github {
     background-image: url(/assets/img/contact/GitHub64px.png);
     width: 64px;
