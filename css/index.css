@@ -68,6 +68,7 @@ p {
     z-index: 9;
 }
 a {
+    position: relative;
     font-family: "Niconne", cursive; 
     font-size: 30px; 
     font-style: normal; 
