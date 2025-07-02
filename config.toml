@@ -1,4 +1,4 @@
-baseURL = 'https://blog.saverio976.ovh/'
+baseURL = 'https://saverio976.github.io/'
 
 defaultContentLanguage = 'en'
 languageCode = "en-us"
