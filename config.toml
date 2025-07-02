@@ -1,0 +1,71 @@
+baseURL = 'https://blog.saverio976.ovh/'
+
+defaultContentLanguage = 'en'
+languageCode = "en-us"
+
+pygmentsCodefences  = true
+pygmentsUseClasses  = true
+
+rssLimit = 10
+
+copyright = 'Saverio976'
+
+enableEmoji = true
+
+theme = 'hermit-V2'
+enableRobotsTXT = true
+
+[frontmatter]
+date = ["lastmod", "date", "publishDate"]
+lastmod = ["date", "lastmod", ":git", "publishDate"]
+publishDate = ["publishDate", "date"]
+expiryDate = ["expiryDate"]
+
+[params.author]
+name = "Saverio976"
+
+
+[taxonomies]
+tag = "tags"
+category = "categories"
+
+[markup]
+[markup.highlight]
+lineNos = false
+lineNumbersInTable = false
+noClasses = true
+
+[languages.en]
+title = "Saverio976"
+languageName = "English"
+contentDir = "content"
+[languages.en.params]
+homeSubtitle = "I do things because why not"
+
+[params]
+dateform        = "Jan 2, 2006"
+dateformShort   = "Jan 2"
+dateformNum     = "2006-01-02"
+dateformNumTime = "2006-01-02 15:04 -0700"
+description = "I do things because why not"
+homeSubtitle = "I do things because why not"
+themeColor = "#494f5c"
+
+justifyContent = false
+
+relatedPosts = true
+code_copy_button = true
+
+scrollToTop = true
+readTime = true
+readTimeSeparator = "\u2026 \u23F2 Reading Time:"
+tagSymbol = "#"
+categorySymbol = "⊲"
+pinned = "Pinned Posts"
+
+[[params.socialLinks]]
+name = "github"
+url = "https://github.com/Saverio976"
+[[params.socialLinks]]
+name = "gitlab"
+url = "https://gitlab.com/Saverio976"
