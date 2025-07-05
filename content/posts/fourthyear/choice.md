@@ -26,7 +26,7 @@ The availability for Halmstad was 5 places, 2 for Roskilde, and 10 for Heriot Wa
 
 My third choice was Heriot Watt because of one sport club in particuliar: [Archery](https://www.instagram.com/heriotwattarcheryclub/). And also, I will get a diploma at the end of the 4th year.
 
-{{< imageresize "/images/4thyear/archery_george.jpg" "x400" "george the mascot of the archery club" >}}
+![george the mascot of the archery club](/images/4thyear/archery_george.jpg)
 
 What I didn't expect was to have to do produce a research project (master thesis), and that it will take me all the summer (3 semesters yes).
 
