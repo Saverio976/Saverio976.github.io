@@ -1,7 +1,7 @@
 +++
 draft = false
 title = '4th Year - The Selection of the University Abroad'
-date = '2025-07-25'
+date = '2025-07-04'
 tags = [
     "EPITECH",
     "Campus",
