@@ -12,6 +12,9 @@ categories = [
 ]
 +++
 
+> [!NOTE]
+> This blog post is written at the very end of my year. I will end the 3rd semester (yes, keep reading to know why) mid august.
+
 For the 4th year of EPITECH school, we need to study one year abroad at a partner university.
 
 The process to select our university is simple: We select 8 choice and rank them by order of preference.
@@ -21,11 +24,12 @@ My top 3 were: 1:Halmstad University (Sweden), 2:Roskilde University (Denmark), 
 
 The availability for Halmstad was 5 places, 2 for Roskilde, and 10 for Heriot Watt. Unfortunately, students with highter grades and participation selected my 2 first choices.
 
-My third choice was Heriot Watt because of one sport club in particuliar: Archery. And also, I will get a diploma at the end of the 4th year.
+My third choice was Heriot Watt because of one sport club in particuliar: [Archery](https://www.instagram.com/heriotwattarcheryclub/). And also, I will get a diploma at the end of the 4th year.
+
+{{< imageresize "/images/4thyear/archery_george.jpg" "x400" "george the mascot of the archery club" >}}
 
 What I didn't expect was to have to do produce a research project (master thesis), and that it will take me all the summer (3 semesters yes).
 
 Anyway, Heriot Watt University is nice! Scotland is amazing.
 
-![george the mascot of the archery club](/images/4thyear/archery_george.jpg)
 ![loch inside the campus](/images/4thyear/campus_loch_1.jpg)
