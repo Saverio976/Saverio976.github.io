@@ -1,5 +1,5 @@
 +++
-draft = true
+draft = false
 title = '4th Year - The Selection of the University Abroad'
 date = '2025-07-25'
 tags = [
@@ -26,3 +26,6 @@ My third choice was Heriot Watt because of one sport club in particuliar: Archer
 What I didn't expect was to have to do produce a research project (master thesis), and that it will take me all the summer (3 semesters yes).
 
 Anyway, Heriot Watt University is nice! Scotland is amazing.
+
+![george the mascot of the archery club](/images/4thyear/archery_george.jpg)
+![loch inside the campus](/images/4thyear/campus_loch_1.jpg)
