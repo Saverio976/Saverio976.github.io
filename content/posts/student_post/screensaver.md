@@ -3,6 +3,7 @@ draft = false
 title = 'StudentProject - Screen Saver'
 date = '2024-04-19'
 tags = [
+    "EPITECH",
     "C",
     "CSFML",
     "Graphics",

@@ -3,6 +3,7 @@ draft = false
 title = 'StudentProject - Antman'
 date = '2024-04-22'
 tags = [
+    "EPITECH",
     "C",
 ]
 categories = [

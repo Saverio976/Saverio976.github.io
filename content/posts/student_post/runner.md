@@ -3,6 +3,7 @@ draft = false
 title = 'StudentProject - Runner'
 date = '2024-04-20'
 tags = [
+    "EPITECH",
     "C",
     "CSFML",
     "Graphics",
