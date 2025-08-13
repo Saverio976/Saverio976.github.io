@@ -16,56 +16,88 @@ theme = 'hermit-V2'
 enableRobotsTXT = true
 
 [frontmatter]
-date = ["lastmod", "date", "publishDate"]
-lastmod = ["date", "lastmod", ":git", "publishDate"]
-publishDate = ["publishDate", "date"]
-expiryDate = ["expiryDate"]
+  date = ["lastmod", "date", "publishDate"]
+  lastmod = ["lastmod", ":git", "date", "publishDate"]
+  publishDate = ["publishDate", "date"]
+  expiryDate = ["expiryDate"]
 
 [params.author]
-name = "Saverio976"
+  name = "Saverio976"
 
 
 [taxonomies]
-tag = "tags"
-category = "categories"
+  tag = "tags"
+  category = "categories"
 
 [markup]
 [markup.highlight]
-lineNos = false
-lineNumbersInTable = false
-noClasses = true
+  lineNos = false
+  lineNumbersInTable = false
+  noClasses = true
 
 [languages.en]
-title = "Saverio976"
-languageName = "English"
-contentDir = "content"
+  title = "Saverio976"
+  languageName = "English"
+  contentDir = "content"
 [languages.en.params]
-homeSubtitle = "I do things because why not"
+  homeSubtitle = "I do things because why not"
 
 [params]
-dateform        = "Jan 2, 2006"
-dateformShort   = "Jan 2"
-dateformNum     = "2006-01-02"
-dateformNumTime = "2006-01-02 15:04 -0700"
-description = "I do things because why not"
-homeSubtitle = "I do things because why not"
-themeColor = "#494f5c"
+  #maybe not used
+  homeSubtitle = "I do things because why not"
+  description = "I do things because why not"
+  # images = [""]
+  themeColor = "#494f5c"
+  accentColor = "#018472"
 
-justifyContent = false
+  footerCopyright = "CC-by"
+  footerHideThemeName = false
+  # bgImg = ""
+  gitUrl = "https://github.com/Saverio976/Saverio976.github.io"
 
-relatedPosts = true
-code_copy_button = true
+  justifyContent = false
 
-scrollToTop = true
-readTime = true
-readTimeSeparator = "\u2026 \u23F2 Reading Time:"
-tagSymbol = "#"
-categorySymbol = "⊲"
-pinned = "Pinned Posts"
+  relatedPosts = true
+  code_copy_button = true
 
-[[params.socialLinks]]
-name = "github"
-url = "https://github.com/Saverio976"
-[[params.socialLinks]]
-name = "gitlab"
-url = "https://gitlab.com/Saverio976"
+  homeSubtitlePrinter = true
+  scrollToTop = true 
+  global_mathjax = false
+  readTime = true
+  readTimeSeparator = "Read Time: "
+  # legacyLayout = false
+  shareSocial = true
+  # googleTagManager = "GTM-XXXXXXXX"
+  # tagSymbol = "#"
+  # categorySymbol = "⊲"
+  # pinned = "Pinned Posts"
+  # pinnedSVGname = "pin"
+  # listLayout = ["description","tags","categories","legacy"]
+  # initialPublish = "Initally Posted on: "
+  # human = ["single","posts"]
+  # noIndex = false
+  # denyRobots = "noindex, nofollow, noarchive"
+  # allowRobots = "index, follow"
+  # siteNoIndex = false
+  # noIndexPages = ["404 Page not found"]
+  usesAnimation = true
+  # mathjaxLib = "https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml.js"
+  # mermaidLib = "https://cdn.jsdelivr.net/npm/mermaid/dist/mermaid.esm.min.mjs"
+  [params.gallery]
+    enable = true
+    thumbnail = '300'
+
+  [params.dateform]
+    CopyrightDate = "2006"
+    LongDate = "Jan 2, 2006"
+    ShortDate = "Jan 2"
+    NumDateShort = "2006-01-02"
+    NumDateLong = "2006-01-02 15:04 -0700"
+
+
+  [[params.socialLinks]]
+    name = "github"
+    url = "https://github.com/Saverio976"
+  [[params.socialLinks]]
+    name = "gitlab"
+    url = "https://gitlab.com/Saverio976"
