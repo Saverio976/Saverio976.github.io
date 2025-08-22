@@ -5,7 +5,8 @@ date = '2025-07-04'
 tags = [
     "EPITECH",
     "Campus",
-    "Edinburgh"
+    "Edinburgh",
+    "HeriotWattUniversity"
 ]
 categories = [
     "4th Year",
